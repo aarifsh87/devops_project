@@ -1,3 +1,11 @@
+NOTE:
+All the the Task below performed 
+1) Infrastructure Setup properly completed
+2) Jenkins pipeline completed successfully
+3) Monitoring and Alerting setup Manually on AWS console
+4) OPtional- Monitorying setup using jenkins pipline can be done but not performed, Attached for your reference that also can be used to setup monitoring and alerting....
+
+
 Objective: To evaluate your skills in DevOps practices, focusing on infrastructure automation, CI/CD
 pipelines, monitoring, and security within the Google Cloud Platform (GCP) environment.
 
